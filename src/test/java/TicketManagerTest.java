@@ -1,7 +1,7 @@
 import org.example.Ticket;
 import org.example.TicketManager;
 import org.example.TicketRepository;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
 public class TicketManagerTest {
